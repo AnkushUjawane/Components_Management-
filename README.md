@@ -11,3 +11,6 @@ This project includes MySQL for handling the databases, Node.js for server-side 
   1. React.js for building the UI's 
   2. Express.js for building RESTful API's 
   3. MySQL for handling the databases 
+
+
+Your task is to create new branch and start project. 
